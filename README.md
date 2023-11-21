@@ -1,6 +1,7 @@
 # Responsive-Travel-Website-.-HTML-CSS-JS
 Responsive Basic Travel Website Design.
 
+
     HOMEPAGE
 ![Alt text](mockup/home.png)
 
@@ -14,4 +15,4 @@ Responsive Basic Travel Website Design.
 ![Alt text](mockup/dest.png)
 
     CONTACT US
-![Alt text](mockup/about.png)
+![Alt text](mockup/contact.png)
